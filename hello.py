@@ -2,7 +2,7 @@
 #import function
 #import the module student
 
-print "Good Morning"
+print "Good Morning to all"
 
 print "good Night to all"
 
